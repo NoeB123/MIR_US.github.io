@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Undestanding the Physics and Geometry"
+theme: jekyll-theme-cayman
 permalink: /physics
 ---
 
