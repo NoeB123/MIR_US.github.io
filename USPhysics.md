@@ -1,3 +1,7 @@
+layout: page
+title: "Undestanding the Physics and Geometry"
+permalink: /physics
+
 # Understanding US Physics
 
 ## US Wave Formation
